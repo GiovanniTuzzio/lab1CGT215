@@ -1,0 +1,15 @@
+C:\Users\gtuzzio\source\repos\lab1CGT215\bin\Debug\net6.0\lab1CGT215.exe
+C:\Users\gtuzzio\source\repos\lab1CGT215\bin\Debug\net6.0\lab1CGT215.deps.json
+C:\Users\gtuzzio\source\repos\lab1CGT215\bin\Debug\net6.0\lab1CGT215.runtimeconfig.json
+C:\Users\gtuzzio\source\repos\lab1CGT215\bin\Debug\net6.0\lab1CGT215.dll
+C:\Users\gtuzzio\source\repos\lab1CGT215\bin\Debug\net6.0\lab1CGT215.pdb
+C:\Users\gtuzzio\source\repos\lab1CGT215\obj\Debug\net6.0\lab1CGT215.csproj.AssemblyReference.cache
+C:\Users\gtuzzio\source\repos\lab1CGT215\obj\Debug\net6.0\lab1CGT215.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtuzzio\source\repos\lab1CGT215\obj\Debug\net6.0\lab1CGT215.AssemblyInfoInputs.cache
+C:\Users\gtuzzio\source\repos\lab1CGT215\obj\Debug\net6.0\lab1CGT215.AssemblyInfo.cs
+C:\Users\gtuzzio\source\repos\lab1CGT215\obj\Debug\net6.0\lab1CGT215.csproj.CoreCompileInputs.cache
+C:\Users\gtuzzio\source\repos\lab1CGT215\obj\Debug\net6.0\lab1CGT215.dll
+C:\Users\gtuzzio\source\repos\lab1CGT215\obj\Debug\net6.0\refint\lab1CGT215.dll
+C:\Users\gtuzzio\source\repos\lab1CGT215\obj\Debug\net6.0\lab1CGT215.pdb
+C:\Users\gtuzzio\source\repos\lab1CGT215\obj\Debug\net6.0\lab1CGT215.genruntimeconfig.cache
+C:\Users\gtuzzio\source\repos\lab1CGT215\obj\Debug\net6.0\ref\lab1CGT215.dll
